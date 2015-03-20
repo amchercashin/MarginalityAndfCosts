@@ -16,7 +16,7 @@ $RECYCLE.BIN/
 
 *.xlsx
 *.xlsb
-*.png
+#*.png
 *.Rproj
 *.RData
 *.Rhistory
